@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Emmanuel Gyan 👋
 
-<!--
-**egyan175/egyan175** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year Aerospace Engineering student at KNUST (Ghana) with a strong focus and passion for understanding and interpreting data, data-driven decision making and data analysis. I’m skilled in statistical modeling, optimization and regression analysis in building models that turn operational data into better decisions — validated against real outcomes, with uncertainty quantified.
 
-Here are some ideas to get you started:
+Currently seeking graduate opportunities in **motorsport strategy engineering**, **aerospace**, **automotive**, and **quantitative analysis** with availability from September 2026.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### 📫 Connect With Me
+- Email: egyan175@gmail.com
+
+
+
+
